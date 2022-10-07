@@ -1,5 +1,7 @@
 # Install Jamovi Desktop
 
+A video demonstration of installing Jamovi Desktop on a computer running Windows 10 is available at: https://youtu.be/gKLdOv7ZFnw
+
 ## Jamovi Desktop
 
 * Go to https://www.jamovi.org/download.html
